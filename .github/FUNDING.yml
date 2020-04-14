@@ -9,21 +9,4 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: ["https://brave.com/ope994", <form action="https://www.coinpayments.net/index.php" method="post">
-	<input type="hidden" name="cmd" value="_donate">
-	<input type="hidden" name="reset" value="1">
-	<input type="hidden" name="merchant" value="2f81ca0093aa561d89436c2dee9c9637">
-	<input type="hidden" name="item_name" value="Custom Tech Enterprize">
-	<input type="hidden" name="item_number" value="000001">
-	<input type="hidden" name="invoice" value="000001">
-	<input type="hidden" name="currency" value="USD">
-	<input type="hidden" name="amountf" value="20.00000000">
-	<input type="hidden" name="allow_amount" value="1">
-	<input type="hidden" name="want_shipping" value="0">
-	<input type="hidden" name="taxf" value="1.00000000">
-	<input type="hidden" name="success_url" value="https://customtechenterprize.github.io/thank_you_page.github.io/">
-	<input type="hidden" name="cancel_url" value="https://customtechenterprize.github.io/home-github.io/">
-	<input type="hidden" name="allow_extra" value="1">
-	<input type="image" src="https://www.coinpayments.net/images/pub/donate-small-grey.png" alt="Donate with CoinPayments.net">
-</form>
-]
+custom: ["https://brave.com/ope994"]
